@@ -1,0 +1,58 @@
+
+body{
+    background-color:snow;
+}
+
+img{
+      
+}
+
+
+.table{
+    text-align: center;
+    display: table;
+    
+}
+
+.title{
+    display: table-caption;
+    color:#cfa944;
+     text-shadow: 
+    5px 5px 5px gray;
+    font-size: 350%;
+    letter-spacing: 15px    
+}
+
+.row{
+    display: table-row;
+   
+    
+}
+
+.cell{
+    display: table-cell;
+    
+    padding-left: 50px;
+    padding-right:50px;
+    
+}
+
+.body{
+    background-color:snow;
+}
+
+p{
+    color:brown;
+    text-align: justify;
+    margin-right: 10px;
+    margin-left: 10px;
+    align-content: center;
+    white-space: normal;
+    
+}
+H2{
+    color:darkgoldenrod;
+    font-size: 200%;
+    text-align: center;
+    
+}
